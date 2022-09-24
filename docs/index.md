@@ -1,21 +1,30 @@
 ## 创建这个网站的初衷
 
-我和张清扬小姐在2017年3月份至2022年9月份，一起度过了一段美好的时光。不过，我们的故事似乎已经结束了，我不知道未来的某一天，这个故事是否可以继续撰写下去。
+我和清扬在2017年3月份至2022年9月份，一起度过了一段美好的时光。
+不过，我们的故事似乎要在2022年的九月份暂告一段落了。
 
-一直希望有一个平台能够把我们的故事保留下来，Github是一个不错的地方，基于以下几点：
+在2022年9月24号这天，我正在收拾办公室，突然觉得应该给我们的过往留下点东西，于是开始做这个网站。
+不过由于所有的事情都发生在过去，很多细节都比较模糊了，虽然我极力的回忆当初的情景，也只能写个大概。
+如果在将来的某一天，有幸能够延续这个故事，我也会用更详细的文字记录我们的故事。
 
-* Github是一个免费的托管平台
-* Github是一个可以长久的保留数据的地方，而不需要担心它像有一些爱情那样会突然消失
 
 ## 这个网站有哪些内容
 
 这个网站的内容会不断的更新，大体上会有以下的内容：
 
-* 从2020年开始，我会把我们每一次见面都记录下来，所以会有一个 ***我们的每一天*** 的版块
+* 从2019年开始，我会把我们每一次见面都记录下来，所以会有一个 ***我们的每一天*** 的版块，这里面可以看到2019年以来我们每一次见面的情景。
 * 2019年开始我们进行了户外的探索，所以有一个 ***我们在户外*** 的版块
 * 我们在一起还进行了很多其他的活动，有大量的照片，我会整理这些照片，弄一个 ***我们的日常*** 版块
+* 我还会利用这个网站写一些跟咪咪分开
+
+## 为何选择Github
+
+* Github是一个免费的托管平台
+* Github是一个可以长久的保留数据的地方，而不需要担心它像有一些爱情那样会突然消失
 
 ## MkDocs
+
+此网站基于开源的MkDocs文档系统以及Material主题。
 
 **Project documentation with Markdown.**
 
@@ -49,23 +58,14 @@
 [mkdocs]: http://www.mkdocs.org
 [release-notes]: http://www.mkdocs.org/about/release-notes/
 
-LICENSE
--------
-Copyright (c) 2016-2017 Longan Labs (https://longan-labs.cc)
+## 版权及许可
 
-Documents and Images
----
+本网站（产品文档和相关图像）采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>进行许可。
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-This work (product documents and associated images) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>
+Copyright (c) 2016-2017 Stephen Lo
 
-## Third-party content
-The resources provided with the product documents also contains datasheets, software examples and other content copyrighted by 3rd party authors and companies. All such items are copyright of respective owners. The use of such items are governed by their respective licenses. 
+## 联系方式
 
-All trademarks are the property of their respective owners.
-
-## To Contact
-
-Write to us at [stephen@longan-labs.cc](stephen@longan-labs.cc) with subject line "Longan Docs". Thanks
+可以跟我发邮件 [loovee@loovee.cc](loovee@loovee.cc)，多谢！
 
 

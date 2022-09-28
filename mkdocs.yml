@@ -112,6 +112,7 @@ extra_javascript:
 nav:
   - 关于这个网站: 
         - ABOUT: index.md
+        - VERSION: version.md
         - LICENSE: license.md
   
   - 记录每一天:
@@ -133,6 +134,7 @@ nav:
         
   - 一路走来:
         - 开始: 开始.md
+        - 创业: 创业.md
         
   - 一些瞬间:
         - 20170505: 20170505.md

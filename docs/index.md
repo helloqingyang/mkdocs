@@ -24,7 +24,7 @@
 虽然每次分开我都会说，故事还没结束。不过这次，不得不承认，可能真的要结束了。
 接下来，在完成这个网站后，好好的开启新生活吧，祝福彼此。
 
-![](https://raw.githubusercontent.com/helloqingyang/mkdocs/main/docs/images/Others/index1.jpg)
+![](https://i.postimg.cc/BZKp8gmS/index1.jpg)
 
 *上图拍摄于2022年9月18日*
 
